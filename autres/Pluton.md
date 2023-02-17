@@ -1,6 +1,6 @@
-# Mercure
+# Pluton
 
-Mercure est la planète la plus proche du soleil.
+Pluton est la planète la plus éloignée du soleil.
 
 ![Icone de pluton](Pluto-Planet-Transparent-PNG.png)
 
